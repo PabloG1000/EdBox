@@ -1,0 +1,94 @@
+ how to create responsive designs using media query, grid, flexbox , bootstrap
+ and tailwind
+       breakpoint
+@media (max-width:600px){
+    props
+}
+Or @media (min-width:600px){
+
+}
+or @media max-width(max-width:1000px) and (min-width:800px)
+
+ u can also use grid
+ grid has differnent properties such as row and column 
+ to ceate the number of colums you take the root div that is the house
+ and you give it a css proprty called grid-template-columns: 1fr 1fr ...
+ repeat(8, 80px);
+ use this instead for boh rows and columns
+                                                             This stand for the number of colums with their respective width
+                                      grid-template-row: 100px 200px 200px 
+                                      basically the diffent number of rows with their respective heights   
+                                      gap: 30px ; this to give spacing between the elements that is the differnt divs
+                                      grid-column: span 2; this to state the amount of column width it will occupy
+
+
+bootstrap framework
+it's built on top of flexbox
+
+widths of devices to create responsive designs
+small phones  320px to 360px
+regular 375px to 414px
+large 480px
+max width: 480px;
+
+
+tablet
+portrait 600px to 768px
+landscape: 800px to 1024px
+breakpoint:768px
+
+laptops:
+small 1024px 1280px
+most 1366px to 1440px
+breakpoint : min-width 1024px
+
+monitor 
+min-width 1440px
+
+flexbox elements adapt auytomatically but  no precise control
+best for smaller components,nvbars,aligning items or when only one direction is needed
+
+grid full control of rows and colums
+best for full page layout , dashboards,galleries, anything that nedecds a structured row and column system
+
+color theory
+your colors must match the mood you're aiming for
+RED: love, emergy, Intensity
+Yellow:Joy, Intellect,Attention
+Green: Freshness,Safety,Growth
+blue: stability,trust, serenity
+purple: royalty, wealth, feminity
+
+combining colors
+Analogous colors:take two colors that are right next to each other in the color wheel
+good for navigation bar, body of your website
+bad at standing out
+
+Complimentary color palette : opp colors
+to stand out
+don't use it for text
+
+ To get palettes
+just go to Adobe color
+Colorhunt.co
+
+Typgography
+serif family 
+Makes design look more serious, older, 
+old style
+transitional
+modern
+slab serif
+
+Emotion behind font
+ Serif Traditional stable respectable
+ Sansserif Sensible simple straightforward
+ Script personal creative elegant
+ display friendly loud amusing
+ modern stylish chic smart
+
+Open shapes
+ample intercharacter spacing
+unambiguos forms
+varying proportions
+
