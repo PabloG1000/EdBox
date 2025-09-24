@@ -92,3 +92,22 @@ ample intercharacter spacing
 unambiguos forms
 varying proportions
 
+when designing user interfaces 
+colors matter because what you want users to realy take notice should pop out
+size 
+bigger items often draw more Attention
+layout 
+40 to 60 charaters per line
+alignment
+try your best to make objects more aligned use grid lines
+space things out don't cram things together
+
+most important design for your audience
+
+User experience
+make it look simple mot dense
+consistency is important
+F pattern of reading or z pattern
+put important stuff using natural reading patterns
+All platform designing
+avoid too many banners
